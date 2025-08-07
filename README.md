@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # Signature Recognition ✍️
 
 Verify the authenticity of handwritten signatures through digital image processing and neural networks.
