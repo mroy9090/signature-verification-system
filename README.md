@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Signature Recognition ✍️
 
 Verify the authenticity of handwritten signatures through digital image processing and neural networks.
@@ -42,6 +43,9 @@ We got the dataset from [ICDAR 2009 Signature Verification Competition (SigComp2
 </table>
 
 
+=======
+# signature-verification-system
+>>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
 =======
 # signature-verification-system
 >>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f

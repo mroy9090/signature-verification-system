@@ -1,15 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.py[cod]
 =======
+=======
+>>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
+<<<<<<< HEAD
+>>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
+=======
 >>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
 
 # C extensions
 *.so
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 # Packages
 *.egg
@@ -46,6 +53,8 @@ nosetests.xml
 
 .idea
 =======
+=======
+>>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
 # Distribution / packaging
 .Python
 build/
@@ -245,4 +254,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
+>>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
+=======
 >>>>>>> 027411de60567254e534fcd41b7d3ba7c01b0b5f
